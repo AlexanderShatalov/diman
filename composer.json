@@ -1,0 +1,20 @@
+{
+    "name": "shat/autoload-composer",
+    "description": "autolad in composer for diman-teacher",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexandr Shatalov",
+            "email": "shatalov-89@mail.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    
+    "autoload": {
+        "psr-0": {
+            "application\\core\\": "application/core",
+            "Filter_": "application/PEAR"
+        }
+    }
+}
