@@ -14,13 +14,13 @@ $router_object->run();
     <head>
         <meta charset="utf-8">
         <title>Diman teacher</title>
-        <link href="lib/bootstrap/css/bootstrap.css" rel="stylesheet">
+        <link href="application/lib/bootstrap/css/bootstrap.css" rel="stylesheet">
     </head>
     
     <body>
         <h1></h1>
     
         
-    <script src="lib/bootstrap/js/bootstrap.js">    
+        <script src="application/lib/bootstrap/js/bootstrap.js">    
     </body>   
-</html>>
+</html>
