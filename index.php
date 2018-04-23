@@ -21,7 +21,7 @@ $router_object->run();
         <h1></h1>
         
         
-        <script src="application/lib/bootstrap/js/bootstrap.js">
-        <script src="application/lib/jquery/jquery-3.3.1.min.js">
+        <script src="application/lib/bootstrap/js/bootstrap.js" />
+        <script src="application/lib/jquery/jquery-3.3.1.min.js" />
     </body>   
 </html>
